@@ -1,9 +1,9 @@
-CDN = content delivery network
-What is crossorigin
-props
-what is react and what is the benefit of the react library
-difference between library and framework
-development and production 
+# CDN = content delivery network
+# What is crossorigin
+# props
+# what is react and what is the benefit of the react library
+# difference between library and framework
+# development and production 
 
 
 ...............
